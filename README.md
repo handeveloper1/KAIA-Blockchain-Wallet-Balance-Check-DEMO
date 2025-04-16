@@ -2,8 +2,7 @@
 KAIA Blockchain Wallet Balance Check DEMO
 
 
-
-https://iq.wiki/_next/image?url=https%3A%2F%2Fipfs.everipedia.org%2Fipfs%2FQmQ95TUHBKSjK1WT1Pp3pzsAZBEVAErzgUTNzphbYNQmsg&w=1920&q=75
+![image](https://github.com/user-attachments/assets/e98a0110-ad3f-4d8e-beab-280aabac39c9)
 
 
 
